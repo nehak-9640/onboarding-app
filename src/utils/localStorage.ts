@@ -1,4 +1,4 @@
-import { OnboardingState } from '../store/onboardingSlice';
+import type { OnboardingState } from '../store/onboardingSlice';
 
 const KEY = 'onboarding_state_v1';
 
